@@ -53,7 +53,7 @@ If you missed it, this project is a follow-up to my earlier one on Dart Basics, 
 You can check that one out here:
 👉 [Dart Calculator Project – Basics](https://github.com/felixjoshuabenson/dart-calculator)
 
-I recommend going through that first if you're still new to Dart—it builds a strong foundation before jumping into this one.
+I recommend going through that first if you're still new to Dart. It builds a strong foundation before jumping into this one.
 
 # Getting Started
 
