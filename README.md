@@ -37,7 +37,7 @@ This project comes with a beginner-friendly PDF note that explains everything:
 * Types of collections in Dart (List, Map, Set)
 * What lambdas are and how they make your code cleaner
 
-👉 [Download the Note (PDF)](./dart_course_part2.pdf)
+👉 [Download the Note (PDF)](/dart_course_part2.pdf)
 
 You’re encouraged to study this note alongside the code. It’s written in a way that makes programming easier to understand, even if you're just starting.
 
