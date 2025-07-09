@@ -1,7 +1,7 @@
 # dart_to_do_logic
 A Dart To-Do logic project to help beginners in Flutter/Dart mobile application development understand Functions, Collections, and Lambdas (not all these were implemented in the project; however, students should study the Readme section to understand them and make adjustments to the project as desired).
 
-I originally shared the idea in a [LinkedIn post](https://www.linkedin.com/posts/felix-joshua-benson-2a9547146_flutter-dart-mobiledevelopment-activity-7346190926148481025-1oBz?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACNR0OEBiTIBhYPuI9nflPuns8mSUY7OzI8), and as promised, here it is on GitHub!
+I originally shared the idea in a [LinkedIn post](https://www.linkedin.com/posts/felix-joshua-benson-2a9547146_flutter-dart-mobiledev-activity-7347951779138961409-doYW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACNR0OEBiTIBhYPuI9nflPuns8mSUY7OzI8), and as promised, here it is on GitHub!
 
 # What’s This About?
 
